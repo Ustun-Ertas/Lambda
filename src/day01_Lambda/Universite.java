@@ -63,6 +63,6 @@ fields --> Universite (String)
                 ", bolum='" + bolum + '\'' +
                 ", orgSayisi=" + orgSayisi +
                 ", notOrt=" + notOrt +
-                '}';
+                "\n";
     }
 }
